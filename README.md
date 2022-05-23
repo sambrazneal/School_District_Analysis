@@ -21,10 +21,15 @@ In this challenge, Maria found that data from Thomas High School was altered and
 ![before_direct](Documentation/before_direct.png)
 
 #### After District Summary 
-![after_direct](Documentation/after_direct.png)
+![after_direct1](Documentation/after_direct1.png)
 
 ### School Summary
 
+#### Before School Summary 
+![before_school](Documentation/before_school.png)
+
+#### After School Summary 
+![after_school](Documentation/after_school.png)
 ### High and Low Performing Schools 
 
 ### Math and Reading Scores by Grade
