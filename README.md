@@ -11,9 +11,9 @@ In this module, we helped Maria perform an analysis on on data from different sc
 In this challenge, Maria found that data from Thomas High School was altered and was no longer correct. Here are the impact of the corrections. 
 
 ### Deliverable 1 
+![del_1](del_1.png)
 
 ### Deliverable 2
-
 
 ### District Summary 
 
@@ -30,6 +30,7 @@ In this challenge, Maria found that data from Thomas High School was altered and
 
 #### After School Summary 
 ![after_school](Documentation/after_school.png)
+
 ### High and Low Performing Schools 
 
 ### Math and Reading Scores by Grade
