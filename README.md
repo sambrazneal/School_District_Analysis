@@ -1,7 +1,7 @@
 # School_District_Analysis
 
 ## Overview 
-In this module, we helped Maria perform an analysis on on data from different schools in the distict to present to the school board. 
+In this module, we helped Maria perform an analysis on data from different schools in the distict to present to the school board. 
 
 ## Resources 
 * Data Source: schools_complete.csv, students_complete.csv
@@ -11,7 +11,7 @@ In this module, we helped Maria perform an analysis on on data from different sc
 In this challenge, Maria found that data from Thomas High School was altered and was no longer correct. Below is the impact of the corrections. 
 
 ### Deliverable 1 
-For deliverable 1, we replaced every 9th graders from Thomas High Schools test scores with NaN. 
+For deliverable 1, we replaced every Thomas High School 9th grader's test scores with NaN. 
 
 ![del_1](Documentation/del_1.png)
 
@@ -88,4 +88,4 @@ No major change in school type data.
 ![after_type](Documentation/after_type.png)
 
 ## Summary 
-There were no considerable difference after taking the falsified data from Thomas High School. The only notable differences were when we looked closely at Thomas High School data. 
+There were no considerable differences after taking the falsified data from Thomas High School. The only notable differences were when we looked closely at Thomas High School data. 
