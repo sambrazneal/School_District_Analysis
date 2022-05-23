@@ -8,7 +8,7 @@ In this module, we helped Maria perform an analysis on on data from different sc
 * Software: Python , Jupyter, Conda 
 
 ## Results 
-In this challenge, Maria found that data from Thomas High School was altered and was no longer correct. Here are the impact of the corrections. 
+In this challenge, Maria found that data from Thomas High School was altered and was no longer correct. Below is the impact of the corrections. 
 
 ### Deliverable 1 
 For deliverable 1, we replaced every 9th graders from Thomas High Schools test scores with NaN. 
