@@ -21,7 +21,6 @@ In this challenge, Maria found that data from Thomas High School was altered and
 ![before_direct](Documentation/before_direct.png)
 
 #### After District Summary 
-![after_direct](Documentation/after_direct.png)
 
 ### School Summary
 
